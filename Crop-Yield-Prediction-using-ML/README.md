@@ -17,5 +17,3 @@ an accuracy of around 86% and can be even further improved with more data.
 ```Web link will be available soon...untill then```
 Check out the preview
 
-## Preview
-![](https://github.com/VaibhavSaini19/Crop-Yield-Prediction-using-ML/blob/master/CYP.png)
